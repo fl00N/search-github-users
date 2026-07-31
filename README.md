@@ -30,7 +30,3 @@ A modern GitHub profile explorer built with **React 19**, **Vite**, **TypeScript
 - GitHub GraphQL API
 - Apollo Client
 - GraphQL
-
-### Styling
-
-- Tailwind CSS
