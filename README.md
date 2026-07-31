@@ -21,13 +21,9 @@ A modern GitHub profile explorer built with **React 19**, **Vite**, **TypeScript
 ### Frontend
 
 - React 19
-- Vite
 - TypeScript
-- Tailwind CSS v4
+- Tailwind CSS
 - shadcn/ui
-- Radix UI
-- Recharts
-- Sonner
 
 ### API
 
